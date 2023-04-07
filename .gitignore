@@ -1,0 +1,47 @@
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+bin/
+obj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.pdb
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# StyleCop
+StyleCopReport.xml
+
+# Windows Azure Build Output
+csx/
+*.build.csdef
+
+# Windows Store App package directory
+AppPackages/
+
+# Others
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.userosscache
+*.vsp
+*.vspx
+*.zuser
+*.metaproj
